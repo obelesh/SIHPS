@@ -25,7 +25,7 @@ Privacy settings to control visibility of personal information.
 Searchable directory to find and connect with fellow alumni.
 Filtering options based on graduation year, degree program, location, and industry.
 
-3)Networking Tools:
+3) Networking Tools:
 Messaging and chat features for direct communication.
 Discussion forums for topic-based discussions.
 Event calendar to promote and organize alumni events.
@@ -44,12 +44,12 @@ Recognition of donors and volunteers.
 Regular news and updates about the institution, including academic achievements, research breakthroughs, and campus events.
 Personalized newsletters based on alumni interests.
 
-7)Alumni Benefits:
+7) Alumni Benefits:
 Exclusive discounts on products and services from partner organizations.
 Access to campus facilities and resources.
 Opportunities to volunteer and give back to the institution.
 
-8)Technical Considerations:
+8) Technical Considerations:
 a) Platform Choice:
 Custom Development: Offers high flexibility but requires significant resources and expertise.
 Commercial Platforms: Provides pre-built features and scalability but may have limitations.
@@ -78,12 +78,12 @@ Organize webinars, online workshops, and virtual happy hours.
 Plan regional and national alumni gatherings.
 By carefully considering these factors and implementing a well-designed alumni association platform, universities and institutes can strengthen their alumni networks and foster a sense of community among their graduates.
 
-## proposed Solution / Architecture Diagram
+## Proposed Solution / Architecture Diagram
 ![web alumini image](https://github.com/user-attachments/assets/ab0624dd-5916-4a5b-8e32-07ecb914ca00)
 
 
 
-## use Cases
+## Use Cases
 
 
 ![case diagram for alumini](https://github.com/user-attachments/assets/6cc3a6a2-ef4b-40fc-a668-cbb25da91a17)
