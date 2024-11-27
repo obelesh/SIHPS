@@ -86,8 +86,9 @@ By carefully considering these factors and implementing a well-designed alumni a
 ## use Cases
 
 
-!
-[case diagram for alumini](https://github.com/user-attachments/assets/f6968a72-bf35-47b5-b3f6-882232ec96e9)
+![case diagram for alumini](https://github.com/user-attachments/assets/6cc3a6a2-ef4b-40fc-a668-cbb25da91a17)
+
+
 ## Technology Stack
 Technology Stack for Alumni Association Platform
 
