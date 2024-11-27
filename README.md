@@ -50,6 +50,7 @@ Access to campus facilities and resources.
 Opportunities to volunteer and give back to the institution.
 
 8) Technical Considerations:
+
 a) Platform Choice:
 Custom Development: Offers high flexibility but requires significant resources and expertise.
 Commercial Platforms: Provides pre-built features and scalability but may have limitations.
